@@ -1,0 +1,31 @@
+﻿  raaAinimatedComponent.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaAinimatedComponent.cpp(3,10): fatal error C1083: Cannot open include file: 'osg/Geode': No such file or directory
+  raaAnimationPathBuilder.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaRoadSet.h(4,10): fatal error C1083: Cannot open include file: 'osg/Node': No such file or directory
+  raaAnimationPoints.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaAnimationPoints.cpp(5,10): fatal error C1083: Cannot open include file: 'osg/ShapeDrawable': No such file or directory
+  raaAssignment2.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaAnimationPathBuilder.h(4,10): fatal error C1083: Cannot open include file: 'osg/AnimationPath': No such file or directory
+  raaFinder.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaFinder.h(5,10): fatal error C1083: Cannot open include file: 'osg/NodeVisitor': No such file or directory
+  raaInputController.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaInputController.h(4,10): fatal error C1083: Cannot open include file: 'osgGA/GUIEventHandler': No such file or directory
+  raaJunctionController.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaTrafficLightUnit.h(4,10): fatal error C1083: Cannot open include file: 'osg/Node': No such file or directory
+  raaPrinter.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaPrinter.h(4,10): fatal error C1083: Cannot open include file: 'osg/NodeVisitor': No such file or directory
+  raaRoadSet.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaRoadSet.cpp(3,10): fatal error C1083: Cannot open include file: 'osgDB/ReadFile': No such file or directory
+  raaTile.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaTile.cpp(2,10): fatal error C1083: Cannot open include file: 'osg/Switch': No such file or directory
+  raaTileCurve.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaRoadSet.h(4,10): fatal error C1083: Cannot open include file: 'osg/Node': No such file or directory
+  raaTileStraight.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaRoadSet.h(4,10): fatal error C1083: Cannot open include file: 'osg/Node': No such file or directory
+  raaTileTJunction.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaRoadSet.h(4,10): fatal error C1083: Cannot open include file: 'osg/Node': No such file or directory
+  raaTileXJunction.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaRoadSet.h(4,10): fatal error C1083: Cannot open include file: 'osg/Node': No such file or directory
+  raaTrafficLightUnit.cpp
+C:\Users\iss536\Documents\Teaching\2019-20120\ComputerGraphics\raaOSGAssignment\raaAssignment2\raaAssignment2\raaTrafficLightUnit.cpp(2,10): fatal error C1083: Cannot open include file: 'osgDB/ReadFile': No such file or directory
+  Generating Code...
